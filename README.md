@@ -2,10 +2,11 @@
 [![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fwww.bhaveshrajpoot.com%2F)](https://www.bhaveshrajpoot.com) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BhaveshRajpoot3?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EBhaveshRajpoot3&region=follow_link&screen_name=BhaveshRajpoot3) 
 
-## I'm an aspiring Observational Astrophysicist, BSc Physics and Astronomy Graduate, and a Science Communicator 
-- 🔭 I’m currently working on Bayesian Analysis of Eclipsing Binaries
+## I'm an aspiring Observational Astrophysicist, MSc Physics and Astronomy student at Univeristät Heidelberg, and a Science Communicator 
+- 🎓 BSc Physics and Astronomy Graduate from Fergusson Collge, Pune
+- 🔭 Worked on Bayesian Analysis of Eclipsing Binaries using PHOEBE at Villanova Univeristy
 - 🌱 I’m currently learning better coding practices and techniques 
-- 🥅 2021 Goals: Get a hold on Computational Astrophysics 
+- 🥅 2022 Goals: Learn ML, GPU Computing and improve Computational Statistics
 - ⚡ Fun fact: I love to Stargaze, play hearts and cook food 
 - 😄 Pronouns: His/Him
 - 💬 Ask me about: Anything related to Astronomy, Astrophysics, Telescopes and especially about the pathways to pursue Astronomy professionally
