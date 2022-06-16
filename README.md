@@ -7,7 +7,7 @@
 - 🔭 Worked on Bayesian Analysis of Eclipsing Binaries using PHOEBE at Villanova Univeristy
 - 🌱 I’m currently learning better coding practices and techniques 
 - 🥅 2022 Goals: Learn ML, GPU Computing and improve Computational Statistics
-- ⚡ Fun fact: I love to Stargaze, play hearts and cook food 
+- ⚡ Fun fact: I love to Stargaze, play Hearts(card game 😛) and cook food
 - 😄 Pronouns: His/Him
 - 💬 Ask me about: Anything related to Astronomy, Astrophysics, Telescopes and especially about the pathways to pursue Astronomy professionally
 
