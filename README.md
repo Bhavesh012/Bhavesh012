@@ -5,8 +5,8 @@
 ## I'm an aspiring Observational Astrophysicist, MSc Physics and Astronomy student at Univeristät Heidelberg, and a Science Communicator 
 - 🎓 BSc Physics and Astronomy Graduate from Fergusson Collge, Pune
 - 🔭 Worked on Bayesian Analysis of Eclipsing Binaries using PHOEBE at Villanova Univeristy
-- 🌱 I’m currently learning better coding practices and techniques 
-- 🥅 2022 Goals: Learn ML, GPU Computing and improve Computational Statistics
+- 🌱 I’m currently learning ML in Physics 
+- 🥅 2023 Goals: Learn GPU Computing, and use ML to solve Astrophysical Problems
 - ⚡ Fun fact: I love to Stargaze, play Hearts(card game 😛) and cook food
 - 😄 Pronouns: His/Him
 - 💬 Ask me about: Anything related to Astronomy, Astrophysics, Telescopes and especially about the pathways to pursue Astronomy professionally
@@ -34,8 +34,8 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) 
 <!-- Tools --> 
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter) 
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 <!-- <details> <summary>:zap: GitHub Stats</summary> <img align="left" alt="Bhavesh Rajpoot's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bhavesh012&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" /> </details> --> 
