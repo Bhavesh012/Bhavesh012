@@ -1,14 +1,18 @@
-## Hi there, I'm Bhavesh Rajpoot - aka [STARGAZER][website] <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" style="vertical-align:top"/> 
+## Hi there, I'm Bhavesh Rajpoot <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" style="vertical-align:top"/> 
 [![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fwww.bhaveshrajpoot.com%2F)](https://www.bhaveshrajpoot.com) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BhaveshRajpoot3?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EBhaveshRajpoot3&region=follow_link&screen_name=BhaveshRajpoot3) 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBhavesh012&label=Visitors&labelColor=%23000000&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBhavesh012)
 
-## I'm an aspiring Observational Astrophysicist, MSc Physics and Astronomy student at Univeristät Heidelberg, and a Science Communicator 
+## I'm an aspiring Observational Astrophysicist pursuing MSc in Physics and Astronomy at Univeristät Heidelberg and a Science Communicator 
 - 🎓 BSc Physics and Astronomy Graduate from Fergusson Collge, Pune
-- 🔭 Worked on Bayesian Analysis of Eclipsing Binaries using PHOEBE at Villanova Univeristy
-- 🌱 I’m currently learning ML in Physics 
-- 🥅 2023 Goals: Learn GPU Computing, and use ML to solve Astrophysical Problems
-- ⚡ Fun fact: I love to Stargaze, play Hearts(card game 😛) and cook food
-- 😄 Pronouns: His/Him
+- 🔭 Worked on:
+    - Memberships of Open Clusters using Random Forest: [oc-with-rf](https://github.com/Bhavesh012/oc_with_rf)
+    - Bayesian Analysis of Eclipsing Binaries using PHOEBE at Villanova University
+    - Astronomical Instrumentation
+- 🌱 I’m currently working on galaxy evolution with JWST NIRISS and Grizli for my thesis
+- 🥅 2024 Goals: Get a PhD position in data-driven astrophysics, mainly with exoplanets in focus
+- ⚡ Fun fact: I love to cook food, go for hikes and read fantasy novels.
+- 😄 Pronouns: He/Him/His
 - 💬 Ask me about: Anything related to Astronomy, Astrophysics, Telescopes and especially about the pathways to pursue Astronomy professionally
 
 <!-- - 🌱 I’m currently learning ...
@@ -25,7 +29,6 @@
 [![Youtube Badge](https://img.shields.io/badge/-STARGAZER-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/STARGAZERAstronomyOutreachInitiative)](youtube) 
 [![Twitter Badge](https://img.shields.io/badge/-BhaveshRajpoot3-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.bhaveshrajpoot.com/)](twitter)
 [![Gmail Badge](https://img.shields.io/badge/-rajputbhavesh04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajputbhavesh04@gmail.com)](mailto:rajputbhavesh04@gmail.com) 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bhavesh012&left_color=black&right_color=green) 
 
 ### Languages and Tools 
 <!-- Languages --> 
